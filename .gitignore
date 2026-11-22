@@ -1,0 +1,4 @@
+/obj/
+/删除/
+__pycache__/
+*.log
